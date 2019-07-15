@@ -6,8 +6,5 @@
 
 
 `R`
-<<<<<<< Updated upstream
- mmm
-=======
+qqqqqqqqq
 nnnnnnnnn
->>>>>>> Stashed changes

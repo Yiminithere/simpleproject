@@ -6,4 +6,8 @@
 
 
 `R`
+<<<<<<< Updated upstream
  mmm
+=======
+nnnnnnnnn
+>>>>>>> Stashed changes
